@@ -8,12 +8,12 @@ This repo is an aggregation of some of the small projects that I have worked on.
 - [Demographic Data Analyzer](https://github.com/noamsiegel/Projects/blob/main/Data%20Analysis/Demographic%20Data%20Analyzer.md)
 - [Mean Variance Standard Variation](https://github.com/noamsiegel/Projects/blob/main/Data%20Analysis/Mean%20Variance%20Standard%20Deviation%20Calculator.md)
 
-## Scientific Computing
-- Probability Calculator
-- Polygon Area Calculator
-- Budget App
-- Time Calculator
-- Arithemtic Formatter
+## [Scientific Computing](https://github.com/noamsiegel/Projects/tree/main/Scientific%20Computing)
+- [Probability Calculator](https://github.com/noamsiegel/Projects/blob/main/Scientific%20Computing/Probability%20Calculator.md)
+- [Polygon Area Calculator](https://github.com/noamsiegel/Projects/blob/main/Scientific%20Computing/Polygon%20Area%20Calculator.md)
+- [Budget App](https://github.com/noamsiegel/Projects/blob/main/Scientific%20Computing/Budget%20App.md)
+- [Time Calculator](https://github.com/noamsiegel/Projects/blob/main/Scientific%20Computing/Time%20Calculator.md)
+- [Arithemtic Formatter](https://github.com/noamsiegel/Projects/blob/main/Scientific%20Computing/Arithmetic%20Formatter.md)
 
 ## [Machine Learning](https://github.com/noamsiegel/Projects/tree/main/Machine%20Learning)
 - Rock Paper Scissors
