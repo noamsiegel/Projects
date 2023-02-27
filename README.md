@@ -1,5 +1,5 @@
 # Projects
-This repo is an aggregation of some of the small projects that I have worked on. I've split them into these categories if you'd like to browse:
+This repo is an aggregation of some of the projects that I have worked on. I've split them into these categories if you'd like to browse:
 
 ## [Data Analysis](https://github.com/noamsiegel/Projects/tree/main/Data%20Analysis)
 - [Sea Level Predictor](https://github.com/noamsiegel/Projects/blob/main/Data%20Analysis/Sea%20Level%20Predictor.md)
@@ -16,8 +16,8 @@ This repo is an aggregation of some of the small projects that I have worked on.
 - [Arithemtic Formatter](https://github.com/noamsiegel/Projects/blob/main/Scientific%20Computing/Arithmetic%20Formatter.md)
 
 ## [Machine Learning](https://github.com/noamsiegel/Projects/tree/main/Machine%20Learning)
-- Rock Paper Scissors
-- Cat and Dog Image Classifier
+- [Rock Paper Scissors Engine](https://github.com/noamsiegel/Projects/blob/main/Machine%20Learning/Rock%20Paper%20Scissors%20Engine.md)
+- [Cat and Dog Image Classifier]()
 - [Book Recommendation Engine using KNN](https://github.com/noamsiegel/Projects/tree/main/Machine%20Learning)
-- Linear Regression health Costs Calculator
-- Neural Network SMS Text Classifier
+- [Linear Regression Health Costs Calculator](https://github.com/noamsiegel/Projects/blob/main/Machine%20Learning/Health%20Costs%20Predictor%20with%20Regression.ipynb)
+- [Neural Network SMS Text Classifier]()
