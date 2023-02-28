@@ -17,7 +17,7 @@ This repo is an aggregation of some of the projects that I have worked on. I've 
 
 ## [Machine Learning](https://github.com/noamsiegel/Projects/tree/main/Machine%20Learning)
 - [Rock Paper Scissors Engine](https://github.com/noamsiegel/Projects/blob/main/Machine%20Learning/Rock%20Paper%20Scissors%20Engine.md)
-- [Cat and Dog Image Classifier]()
+- [Cat and Dog Image Classifier](https://github.com/noamsiegel/Projects/blob/main/Machine%20Learning/Cat%20and%20Dog%20Image%20Classifier.ipynb)
 - [Book Recommendation Engine using KNN](https://github.com/noamsiegel/Projects/tree/main/Machine%20Learning)
 - [Linear Regression Health Costs Calculator](https://github.com/noamsiegel/Projects/blob/main/Machine%20Learning/Health%20Costs%20Predictor%20with%20Regression.ipynb)
 - [Neural Network SMS Text Classifier]()
