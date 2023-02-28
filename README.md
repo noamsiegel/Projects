@@ -21,3 +21,9 @@ This repo is an aggregation of some of the projects that I have worked on. I've 
 - [Book Recommendation Engine using KNN](https://github.com/noamsiegel/Projects/tree/main/Machine%20Learning)
 - [Linear Regression Health Costs Calculator](https://github.com/noamsiegel/Projects/blob/main/Machine%20Learning/Health%20Costs%20Predictor%20with%20Regression.ipynb)
 - [Neural Network SMS Text Classifier](https://github.com/noamsiegel/Projects/blob/main/Machine%20Learning/Neural%20Network%20SMS%20Text%20Classifier.md)
+
+## [Data Visualization](https://github.com/noamsiegel/Projects/tree/main/Data%20Visualization)
+- [Federal Reserve Economic Data  Bar Chart](https://codepen.io/Twoogy/pen/JjaEaLB)
+- [Cyclist Doping Records Correlation Scatter Plot](https://codepen.io/Twoogy/pen/PodWdBw)
+- [Monthly Global Land-Surface Temperature Heat Map](https://codepen.io/Twoogy/pen/QWVdVVG)
+- [United States Educational Attainment Choropleth Map](https://codepen.io/Twoogy/pen/qBMRMLQ)
