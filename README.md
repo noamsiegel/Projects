@@ -1,6 +1,5 @@
 # Projects
-This repo is an aggregation of some of the projects that I have learned from. 
-I split my projects into categories if you'd like to browse:
+An aggregation of some of the projects that I have learned from, split into categories if you'd like to browse:
 
 ### [Machine Learning](https://github.com/noamsiegel/Projects/tree/main/Machine%20Learning)
 - [Rock Paper Scissors Engine](https://github.com/noamsiegel/Projects/blob/main/Machine%20Learning/Rock%20Paper%20Scissors%20Engine.md)
